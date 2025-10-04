@@ -1,0 +1,5 @@
+c4d369d Logged history hunt
+6fecf9c Merged training progress
+d1cfbc1 Fixed skills training
+45a9784 Branch training started
+fce9223 First raid complete
