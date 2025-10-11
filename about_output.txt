@@ -1,7 +1,15 @@
+<!DOCTYPE html>
 <html>
-<head><title>404 Not Found</title></head>
+<head>
+    <style>
+        body { background-color: #1a1a1a; color: #ffffff; font-family: Arial, sans-serif; text-align: center; }
+        h1 { color: #ff4500; }
+        a { color: #00b7eb; }
+    </style>
+</head>
 <body>
-<center><h1>404 Not Found</h1></center>
-<hr><center>nginx/1.29.2</center>
+    <h1>About Hunter's DevOps Journey</h1>
+    <p>Master of Git and Docker, conquering DevOps dungeons since 2025!</p>
+    <a href="/index.html">Back to Home</a>
 </body>
 </html>
