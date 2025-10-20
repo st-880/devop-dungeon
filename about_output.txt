@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body { background-color: #1a1a1a; color: #ffffff; font-family: Arial, sans-serif; text-align: center; }
+        h1 { color: #ff4500; }
+        a { color: #00b7eb; }
+    </style>
+</head>
+<body>
+    <h1>About Hunter's DevOps Journey</h1>
+    <p>Master of Git and Docker, conquering DevOps dungeons since 2025!</p>
+    <a href="/index.html">Back to Home</a>
+</body>
+</html>

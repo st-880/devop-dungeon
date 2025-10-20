@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body { background-color: #1a1a1a; color: #ffffff; font-family: Arial, sans-serif; text-align: center; }
+        h1 { color: #ff4500; }
+    </style>
+</head>
+<body>
+    <h1>Hunter's DevOps Portal Conquered!</h1>
+</body>
+</html>
